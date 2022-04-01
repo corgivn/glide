@@ -1,6 +1,6 @@
 package com.bumptech.glide.samples.giphy;
 
-import android.app.Activity;
+import  android.app.Activity;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;

@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Gif</string>
+  <string name="todo">TODO</string>
+  <string name="add">Add</string>
+  <string name="remove">Remove</string>
+</resources>

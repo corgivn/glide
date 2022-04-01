@@ -9,6 +9,7 @@ dependencies {
     testImplementation "junit:junit:${JUNIT_VERSION}"
     testImplementation "org.mockito:mockito-core:${MOCKITO_VERSION}"
     testImplementation "org.robolectric:robolectric:${ROBOLECTRIC_VERSION}"
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.8.1'
 }
 
 android {
